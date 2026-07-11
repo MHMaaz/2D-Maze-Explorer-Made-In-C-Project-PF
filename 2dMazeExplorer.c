@@ -18,7 +18,6 @@
      a row wins the game.
 
      ------------------------------------------------------------
-     HOW THE WHOLE PROGRAM FLOWS (read this before the viva):
 
        main()
          -> showWelcomeScreen()   : title screen, wait for Enter
